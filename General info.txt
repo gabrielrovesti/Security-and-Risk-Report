@@ -1,0 +1,22 @@
+Info:
+
+- Find a suitable use case
+- Put at least a picture of system to identify
+- Apply the suitable controls according to the framework and fit the best 
+- If we use generative AI, use it to apply such case to what you want to see 
+- It's important to select categories and subcategories according to the specific case, then standard will pave the way on how to do that
+- Even where there is not a standard, remember to apply concepts: these are always the same, refining them accordingly
+
+Bureaucracy:
+
+- It has to be delivered 10 days before the exams
+- If exam goes wrong, the same report, if it goes well, can be used
+
+Moodle says (for 23-24):
+The final exam consist of the sum of the points each student scores in two tests:
+
+A report up to 10 pages maximum, in which the candidate should analyze a cybersecurity assessment report built with Generative AI
+ - The cybersecurity assessment prepared with the use of generative AI should comply with the NIST CSF 2.0.
+ - Instead, the report should introduce the AI-based assessment and the methodology used to construct it.
+ - Finally, the candidate must spend particular effort analysing what the AI has produced and any mitigations that a security engineer could use to contrast this fraudulent way of writing reports.
+ - It is important that the report be submitted at least seven days before the date of the examination in which you wish to participate
